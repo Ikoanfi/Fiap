@@ -11,3 +11,10 @@ else:
         print("Paciente: ", nome.title(), " prioridade")
     else:
         print("Paciente: ", nome.title(), " segue na fila")
+
+        
+        
+        
+        
+        
+        
